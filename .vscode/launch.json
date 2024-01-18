@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "g:/cppHomeWork",
-      "program": "g:/cppHomeWork/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/home/ezhonghu/Documents/cppHomework",
+      "program": "/home/ezhonghu/Documents/cppHomework/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
