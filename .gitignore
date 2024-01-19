@@ -35,3 +35,5 @@
 # .vscode folder
 .vscode/
 
+# test files
+test.cpp
