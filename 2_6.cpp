@@ -1,3 +1,10 @@
+//**
+ /* @brief：'输入年 月 日，返回这一天是当年的第几天'
+ /*
+ /* @author zhonghu e
+ /*
+ /* Contact: ezhonghu@qq.com
+ /*/
 #include <iostream>
 
 using namespace std;

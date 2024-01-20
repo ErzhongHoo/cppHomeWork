@@ -1,3 +1,10 @@
+//**
+ /* @brief：'输入h，返回一个梯形（上边和高均为h）'
+ /*
+ /* @author zhonghu e
+ /*
+ /* Contact: ezhonghu@qq.com
+ /*/
 #include <iostream>
 #include <cstdio>
 

@@ -1,3 +1,12 @@
+//**
+ /* @brief：'输入框大小和两个ascill符号，输出符号交替的正方形（缺角）'
+ /*
+ /* @author zhonghu e
+ /*
+ /* Contact: ezhonghu@qq.com
+ /*/
+
+ // 暂未完成
 #include <iostream>
 #include <vector>
 

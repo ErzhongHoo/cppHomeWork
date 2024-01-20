@@ -1,3 +1,10 @@
+//**
+ /* @brief：'打印所有不超过256，其平方具有对称性质的数'
+ /*
+ /* @author zhonghu e
+ /*
+ /* Contact: ezhonghu@qq.com
+ /*/
 #include <iostream>
 using namespace std;
 

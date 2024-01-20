@@ -1,4 +1,11 @@
 //2.1
+//**
+ /* @brief：'无输入，输出满足条件的三个数字'
+ /*
+ /* @author zhonghu e
+ /*
+ /* Contact: ezhonghu@qq.com
+ /*/
 #include <iostream>
 
 int main(){
