@@ -1,5 +1,5 @@
 /*
-* @brief：'简单加密'
+* @brief：'简单密码翻译'
 *
 * @author zhonghu e
 *
